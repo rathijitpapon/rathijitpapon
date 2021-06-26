@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences by [My Resume](https://drive.google.com/file/d/1Ff5C8hFhpBza6Mvlg2P-z7ReP98fdNrQ/view?usp=sharing)
 
-- 📫 How to reach me **mailto:alienpapon009@gmail.com**
+- 📫 How to reach me **alienpapon009@gmail.com**
 
 - ⚡ Fun fact **I love music, food & travelling**
 
