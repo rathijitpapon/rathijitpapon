@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working as a Junior Software Engineer at [Free Pixel Games Ltd](https://www.linkedin.com/company/free-pixel-games-ltd/)
 
-- 👨‍💻 You can also check out my portfolio at [Rathijit Paul - Portfolio Website](rathijitpaul.com)
+- 👨‍💻 You can also check out my portfolio at [Rathijit Paul - Portfolio Website](https://www.rathijitpaul.com)
 
 - 📄 Know about my experiences by [My Resume](https://drive.google.com/file/d/1Ff5C8hFhpBza6Mvlg2P-z7ReP98fdNrQ/view?usp=sharing)
 
-- 📫 How to reach me **alienpapon009@gmail.com**
+- 📫 How to reach me **mailto:alienpapon009@gmail.com**
 
 - ⚡ Fun fact **I love music, food & travelling**
 
