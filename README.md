@@ -31,5 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rathijitpapon&" alt="rathijitpapon" /></p>
 
-[![rathijit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rathijitpapon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rathijitpapon&layout=compact" alt="rathijitpapon" /></p>
 
