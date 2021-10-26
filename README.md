@@ -5,7 +5,7 @@
 
 - 👨‍💻 You can also check out my portfolio at [Rathijit Paul - Portfolio Website](https://www.rathijitpaul.com)
 
-- 📄 Know about my experiences by [My Resume](https://drive.google.com/file/d/1Ff5C8hFhpBza6Mvlg2P-z7ReP98fdNrQ/view?usp=sharing)
+- 📄 Know about my experiences by [My Resume](https://drive.google.com/file/d/1r7BzMZhqqfDkdf-Ll_THnjiZrOkHOsPt/view?usp=sharing)
 
 - 📫 How to reach me **alienpapon009@gmail.com**
 
