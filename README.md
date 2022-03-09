@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rathijit Paul</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
-- 🔭 I’m currently working as a Junior Software Engineer at [Free Pixel Games Ltd](https://www.linkedin.com/company/free-pixel-games-ltd/)
+- 🔭 I’m currently looking for a full-time Software Engineer Role. 
 
 - 👨‍💻 You can also check out my portfolio at [Rathijit Paul - Portfolio Website](https://www.rathijitpaul.com)
 
-- 📄 Know about my experiences by [My Resume](https://drive.google.com/file/d/1r7BzMZhqqfDkdf-Ll_THnjiZrOkHOsPt/view?usp=sharing)
+- 📄 Know about my experiences by [My Resume](https://drive.google.com/file/d/1ppSsGhXp2RWFQyO20DhWnDYI8vp6ZNea/view?usp=sharing)
 
 - 📫 How to reach me **alienpapon009@gmail.com**
 
