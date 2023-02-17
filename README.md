@@ -64,6 +64,8 @@
 
 <br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathijitpapon&label=Profile%20views&color=0e75b6&style=flat" alt="rathijitpapon" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathijitpapon&show_icons=true&locale=en&layout=compact" alt="rathijitpapon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathijitpapon&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="rathijitpapon" /></p>
@@ -71,4 +73,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rathijitpapon&" alt="rathijitpapon" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rathijitpapon&layout=compact" alt="rathijitpapon" /></p> -->
-
