@@ -7,7 +7,7 @@
 
 <!-- - 📄 Know about my experiences by [My Resume](https://drive.google.com/file/d/1OpjYz7lw4iF_WJYZlKz9dmr7nmsRoHiT/view?usp=sharing) -->
 
-- 📫 How to reach me **alienpapon009@gmail.com**
+- 📫 How to reach me **rathijitpaul032@gmail.com**
 
 - ⚡ Fun fact **I love music, food & travelling**
 
@@ -59,17 +59,17 @@
 </tr>
 </table>
 
-<h3 align="left">Support</h3>
-<p align="left"><a href="https://www.buymeacoffee.com/rathijitpapon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rathijitpapon" /></a></p>
+<!-- <h3 align="left">Support</h3>
+<p align="left"><a href="https://www.buymeacoffee.com/rathijitpapon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rathijitpapon" /></a></p> -->
 
 <br><br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathijitpapon&label=Profile%20views&color=0e75b6&style=flat" alt="rathijitpapon" /> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathijitpapon&show_icons=true&locale=en&layout=compact" alt="rathijitpapon" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathijitpapon&show_icons=true&locale=en&layout=compact" alt="rathijitpapon" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathijitpapon&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="rathijitpapon" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathijitpapon&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="rathijitpapon" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rathijitpapon&" alt="rathijitpapon" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rathijitpapon&" alt="rathijitpapon" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rathijitpapon&layout=compact" alt="rathijitpapon" /></p> -->
