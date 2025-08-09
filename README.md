@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rathijit Paul</h1>
-<h3 align="center">Helping People with AI | Founder | Software Engineer</h3>
+<h3 align="center">Software Development Engineer</h3>
 
-- 🔭 I’m currently building a **Biotech AI Startup**. 
+- 🔭 I’m currently working at **AWS Lambda**
 
-- 👨‍💻 You can also check out my portfolio at [Rathijit Paul - Portfolio Website](https://www.rathijitpaul.com)
-
-<!-- - 📄 Know about my experiences by [My Resume](https://drive.google.com/file/d/1OpjYz7lw4iF_WJYZlKz9dmr7nmsRoHiT/view?usp=sharing) -->
+- 👨‍💻 You can also check out my portfolio here: [rathijitpaul.com](https://www.rathijitpaul.com)
 
 - 📫 How to reach me **rathijitpaul032@gmail.com**
 
-- ⚡ Fun fact **I love music, food, mountaineering, & traveling**
+- ⚡ Fun fact **I love food, mountaineering, & traveling**
 
 <table>
 <tr>
